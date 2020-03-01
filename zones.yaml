@@ -1,0 +1,16 @@
+---
+zones:
+  - id: NZ123
+    name: zone 1
+    owner: ich
+    area: NA51
+
+  - id: NZ2
+    name: abc def
+    owner: du
+    area: NA01
+
+  - id: NZ3
+    name: zone 3
+    owner: hugo
+    area: NA01

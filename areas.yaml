@@ -1,0 +1,13 @@
+---
+areas:
+  - id: NA01
+    name: 'area01'
+    description: 'abc adsfasdf'
+
+  - id: NA51
+    name: 'area51'
+    description: 'lorem ipsum'
+
+  - id: NA51
+    name: 'area51 again'
+    description: 'lorem ipsum and some'
